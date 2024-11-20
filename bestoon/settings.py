@@ -110,6 +110,7 @@ TIME_ZONE = 'UTC'
 
 USE_I18N = True
 
+TIME_ZONE = 'Asia/Tehran'
 USE_TZ = True
 # USE_TZ = False
 
